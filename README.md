@@ -11,8 +11,8 @@ My personnal developer portfolio
 	* [Stickman Canon](#Stickman-Canon)
 
 * [Work in progress](#Work-in-progress)
-	* [Moteur Physique](#Moteur-Physique)
 	* [Majhong Organizer](#Majhong-Organizer)
+	* [Moteur Physique](#Moteur-Physique)
 
 First Header  | Second Header
 ------------- | :-------------:
@@ -25,17 +25,16 @@ First Header  | Second Header
 Content Cell  | Content Cell
 Content Cell  |  \| 
 
-\ | Game | Non Game
-| :--- | ---: | :---:
-  | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell
+\      | Non Games
+:----: | :---:
+C++    | [Majhong Organizer](#Majhong-Organizer) \| [Moteur Physique](#Moteur-Physique)
 
-\  | Games
--- | :---:
-Unity  | Content Cell
-C      |  \| 
-Java   |  \| 
-Python | [GameJam PCPC](#GameJam-PCPC) | 
+\      | Games
+:----: | :---:
+Unity  | [Ghost of Damocles](#Ghost-of-Damocles)
+C SDL2 | [Combat des animaux](#Combat-des-animaux) \| [Stickman Canon](#Stickman-Canon)
+Java   | [Jump It Catch It](#Jump-It-Catch-It) \| [Snake](#snake)
+Python | [GameJam PCPC](#GameJam-PCPC)
 
 ## Personnal Projects
 ### Jump It Catch It
@@ -56,5 +55,5 @@ Python | [GameJam PCPC](#GameJam-PCPC) |
 ### Stickman Canon
 
 ## Work in progress
-### Moteur Physique
 ### Majhong Organizer
+### Moteur Physique
