@@ -14,6 +14,21 @@ My personnal developer portfolio
 	* [Moteur Physique](#Moteur-Physique)
 	* [Majhong Organizer](#Majhong-Organizer)
 
+First Header  | Second Header
+------------- | :-------------:
+Content Cell  | Content Cell
+Content Cell  |  \| 
+
+First Header  | Second Header
+------------- | -------------
+:--- | :---:
+Content Cell  | Content Cell
+Content Cell  |  \| 
+
+\ | Right aligned Header | Center aligned Header
+| :--- | ---: | :---:
+Content Cell  | Content Cell | Content Cell
+Content Cell  | Content Cell | Content Cell
 
 ## Personnal Projects
 ### Jump It Catch It
