@@ -2,17 +2,17 @@
 My personnal developer portfolio
 
 ## Personnal Project
-1. [Jump It Catch It](#jumpitcatchit)
-2. [Combat des animaux](#combatdesanimaux)
+1. [Jump It Catch It](#Jump-It-Catch-It)
+2. [Combat des animaux](#Combat-des-animaux)
 3. [Snake](#snake)
 ## GameJam
-3. [Ghost of Damocles](#ghostofdamocles)
-3. [GameJam PCPC](#gamejamppcpc)
-3. [Stickman Canon](#stickmancanon)
+3. [Ghost of Damocles](#Ghost-of-Damocles)
+3. [GameJam PCPC](#GameJam-PCPC)
+3. [Stickman Canon](#Stickman-Canon)
 
 ## Work in progress
-3. [Moteur Physique](#moteurphysique)
-3. [Majhong Organizer](#majhongorganizer)
+3. [Moteur Physique](#Moteur-Physique)
+3. [Majhong Organizer](#Majhong-Organizer)
 
 
 ## Personnal Project
