@@ -25,10 +25,17 @@ First Header  | Second Header
 Content Cell  | Content Cell
 Content Cell  |  \| 
 
-\ | Right aligned Header | Center aligned Header
+\ | Game | Non Game
 | :--- | ---: | :---:
+  | Content Cell | Content Cell
 Content Cell  | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell
+
+\  | Games
+-- | :---:
+Unity  | Content Cell
+C      |  \| 
+Java   |  \| 
+Python | [GameJam PCPC](#GameJam-PCPC) | 
 
 ## Personnal Projects
 ### Jump It Catch It
