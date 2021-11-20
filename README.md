@@ -49,6 +49,25 @@ Screenshots :<br/>
 ## Jump It Catch It
 `Personnal Project`
 
+Coded a 1V1 online game with a friend using Java. 60 hours project each, 2020
+
+Fun Action Game. Two players fight each other to the death, catching items to boost their stats, shooting at each other or pushing themselves into the gap. The game can be played with the two players on the same keyboard or online. The keybindings are editable.
+
+My part in the project :<br/>
+The whole game<br/>
+My friend did the menus and online part
+
+Code :<br/>
+[Source Code Here](https://github.com/CavaniNicolas/JumpItCatchIt)<br/>
+
+Video :<br/>
+[Youtube Video Presentation (2m)](https://www.youtube.com/watch?v=7ZedQnzmgeo)<br/>
+
+Screenshots :<br/>
+![Game](screenshots/JumpItCatchIt/fight.png)<br/>
+![Bindings Menu](screenshots/JumpItCatchIt/bindingsMenu.png)<br/>
+![Online Menu](screenshots/JumpItCatchIt/onlineMenu.png)
+
 - - - -
 ## Moteur Physique
 `Work in progress`
