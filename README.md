@@ -145,6 +145,15 @@ Screenshots :<br/>
 ## Stickman Canon
 `GameJam Projects` `C` `SDL2` `2019`
 
+My first ever GameJam, C SDL2 (more precisely SANDAL2, a SDL2 overlay).<br/>
+A brick breaker game with colored stickman
+
+Video :<br/>
+[Youtube Video Presentation (2m)](https://www.youtube.com/watch?v=mrCva9fO55w&t=2s)<br/>
+
+Screenshots :<br/>
+![Game](screenshots/StickmanCanon/game.png)<br/>
+
 [Back To Top](#Portfolio)
 - - - -
 
