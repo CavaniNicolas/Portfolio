@@ -72,7 +72,7 @@ Screenshots :<br/>
 ## Physics Engine
 `Work in progress` `C++` `OpenGL`
 
-This project aims to simulate basic physics principles. Project as part of a UQAC course.
+This project aims to simulate basic physics principles. Project as part of a UQAC course. 2021
 
 My part in the project :<br/>
 Mostly OpenGL rendering part, project architecture and a little bit of the engine
@@ -88,6 +88,21 @@ Screenshots :<br/>
 - - - -
 ## Combat des animaux
 `Personnal Project` `C` `SDL2`
+
+Redoing a street fighter game in C, 60 hours project, 2019<br/>
+This project uses SDL2 (more precisely SANDAL2, a SDL2 overlay).<br/>
+The whole interface is responsive to the window size, this does not add anything to the game but I had fun coding an optimized disposition of the characters in the menu (in other words : an auto filling menu).<br/>
+I also drew the character's animation myself, which is why its not good, but it was to have fun with spritesheets and SDL.
+
+Code :<br/>
+[Source Code Here](https://github.com/CavaniNicolas/LeCombatDesAnimaux_GameJam)<br/>
+
+Video :<br/>
+[Youtube Video Presentation (2m)](https://www.youtube.com/watch?v=aMQEeo7yYOg)<br/>
+
+Screenshots :<br/>
+![Menu](screenshots/CombatDesAnimaux/menu.PNG)<br/>
+![Game](screenshots/CombatDesAnimaux/fight.PNG)
 
 - - - -
 ## Majhong Organizer
