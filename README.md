@@ -7,7 +7,7 @@ My personnal developer portfolio
 
 \      | Non Games
 :----: | :---:
-C++    | [Majhong Organizer](#Majhong-Organizer) \| [Moteur Physique](#Moteur-Physique)
+C++    | [Mahjong Organizer](#Mahjong-Organizer) \| [Moteur Physique](#Moteur-Physique)
 
 \      | Games
 :----: | :---:
@@ -114,7 +114,7 @@ Screenshots :<br/>
 [Back To Top](#Portfolio)
 - - - -
 
-## Majhong Organizer
+## Mahjong Organizer
 `Work in progress` `C++` `QML` `2021`
 
 Small app in C++ and QML for a mahjong club to create randomized 4-players tables following several constraints.<br/>
@@ -124,7 +124,7 @@ Code :<br/>
 [Source Code Here](https://github.com/CavaniNicolas/MahjongOrganizer)<br/>
 
 Screenshots :<br/>
-![Menu](screenshots/MajhongOrganizer/app1.PNG)<br/>
+![Menu](screenshots/MahjongOrganizer/app1.png)<br/>
 
 [Back To Top](#Portfolio)
 - - - -
