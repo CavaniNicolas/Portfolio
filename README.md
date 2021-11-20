@@ -7,7 +7,7 @@ My personnal developer portfolio
 \      | Games
 :----: | :---:
 Unity  | [Ghost of Damocles](#Ghost-of-Damocles)
-C SDL2 | [Combat des animaux](#Combat-des-animaux) \| [Stickman Canon](#Stickman-Canon)
+C SDL2 | [Combat des animaux](#Combat-des-animaux) \| [Stickman Canon](#Stickman-Canon) \| [FloodIt And MasterMind](#FloodIt-And-MasterMind)
 Java   | [Jump It Catch It](#Jump-It-Catch-It) \| [Snake](#snake)
 Python | [GameJam PCPC](#GameJam-PCPC)
 
@@ -148,16 +148,16 @@ Screenshots :<br/>
 [Back To Top](#Portfolio)
 - - - -
 
-## FoodIt And MasterMind
+## FloodIt And MasterMind
 `ISIMA Projects` `C` `SDL2` `2019`
 
-FoodIt And MasterMind Games in C, SDL2 made as part of an ISIMA course.
+FloodIt And MasterMind Games in C, SDL2 made as part of an ISIMA course.
 
 Code :<br/>
 [Source Code Here](https://github.com/CavaniNicolas/CZZ1_TPs/tree/master/C1_TP6)<br/>
 
 Screenshots :<br/>
-![FoodIt](screenshots/FlooditMastermind/floodit.PNG)<br/>
+![FloodIt](screenshots/FlooditMastermind/floodit.PNG)<br/>
 ![MasterMind](screenshots/FlooditMastermind/mastermind.PNG)
 
 [Back To Top](#Portfolio)
