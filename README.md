@@ -4,16 +4,17 @@ My personnal developer portfolio
 ### About Me
 
 ### Glossary
+
+\      | Non Games
+:----: | :---:
+C++    | [Majhong Organizer](#Majhong-Organizer) \| [Moteur Physique](#Moteur-Physique)
+
 \      | Games
 :----: | :---:
 Unity  | [Ghost of Damocles](#Ghost-of-Damocles)
 C SDL2 | [Combat des animaux](#Combat-des-animaux) \| [Stickman Canon](#Stickman-Canon) \| [FloodIt And MasterMind](#FloodIt-And-MasterMind)
 Java   | [Jump It Catch It](#Jump-It-Catch-It) \| [Snake](#snake)
 Python | [GameJam PCPC](#GameJam-PCPC)
-
-\      | Non Games
-:----: | :---:
-C++    | [Majhong Organizer](#Majhong-Organizer) \| [Moteur Physique](#Moteur-Physique)
 
 - - - -
 ## Ghost of Damocles
