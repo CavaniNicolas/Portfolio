@@ -117,6 +117,15 @@ Screenshots :<br/>
 ## Majhong Organizer
 `Work in progress` `C++` `QML` `2021`
 
+Small app in C++ and QML for a mahjong club to create randomized 4-players tables following several constraints.<br/>
+Aim is to properly deploy the app (using CMake) so that it works on Windows and Mahjong-Clubs will be able to use it.
+
+Code :<br/>
+[Source Code Here](https://github.com/CavaniNicolas/MahjongOrganizer)<br/>
+
+Screenshots :<br/>
+![Menu](screenshots/MajhongOrganizer/app1.PNG)<br/>
+
 [Back To Top](#Portfolio)
 - - - -
 
