@@ -7,9 +7,21 @@ I am a french student born in 1999, studying Computer Science at ISIMA (Clermont
 
 ### Glossary
 
+By order of importance :
+* [Ghost of Damocles](#Ghost-of-Damocles)
+* [Jump It Catch It](#Jump-It-Catch-It)
+* [Physics Engine](#Physics-Engine)
+* [Combat des animaux](#Combat-des-animaux)
+* [Mahjong Organizer](#Mahjong-Organizer)
+* [Snake](#snake)
+* [GameJam PCPC](#GameJam-PCPC)
+* [Stickman Canon](#Stickman-Canon)
+* [FloodIt And MasterMind](#FloodIt-And-MasterMind)
+
+Or ordered in cathegories :
 \      | Non Games
 :----: | :---:
-C++    | [Mahjong Organizer](#Mahjong-Organizer) \| [Moteur Physique](#Moteur-Physique)
+C++    | [Mahjong Organizer](#Mahjong-Organizer) \| [Physics Engine](#Physics-Engine)
 
 \      | Games
 :----: | :---:
