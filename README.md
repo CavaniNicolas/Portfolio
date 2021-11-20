@@ -122,6 +122,17 @@ Screenshots :<br/>
 ## Snake
 `Personnal Project` `Java` `2020`
 
+Small project to learn Java and Java Swing, 2020
+
+Code :<br/>
+[Source Code Here](https://github.com/CavaniNicolas/Snake_Java)<br/>
+
+Video :<br/>
+[Youtube Video Presentation (2m)](https://www.youtube.com/watch?v=62bP-GzYvqA&t=1s)<br/>
+
+Screenshots :<br/>
+![Game](screenshots/SnakeJava/snake.png)<br/>
+
 [Back To Top](#Portfolio)
 - - - -
 
