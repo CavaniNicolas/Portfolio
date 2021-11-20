@@ -136,3 +136,18 @@ Screenshots :<br/>
 
 [Back To Top](#Portfolio)
 - - - -
+
+## FoodIt And MasterMind
+`ISIMA Projects` `C` `SDL2` `2019`
+
+FoodIt And MasterMind Games in C, SDL2 made as part of an ISIMA course.
+
+Code :<br/>
+[Source Code Here](https://github.com/CavaniNicolas/CZZ1_TPs/tree/master/C1_TP6)<br/>
+
+Screenshots :<br/>
+![FoodIt](screenshots/FlooditMastermind/floodit.PNG)<br/>
+![MasterMind](screenshots/FlooditMastermind/mastermind.PNG)
+
+[Back To Top](#Portfolio)
+- - - -
