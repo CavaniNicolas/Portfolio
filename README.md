@@ -17,7 +17,7 @@ C++    | [Majhong Organizer](#Majhong-Organizer) \| [Moteur Physique](#Moteur-Ph
 
 - - - -
 ## Ghost of Damocles
-`GameJam Project`
+`GameJam Project` `Unity`
 
 Game made using Unity for the University of Quebec at Chicoutimi's game jam : WonderJam 2021 (48h)
 
@@ -47,7 +47,7 @@ Screenshots :<br/>
 
 - - - -
 ## Jump It Catch It
-`Personnal Project`
+`Personnal Project` `Java`
 
 Coded a 1V1 online game with a friend using Java. 60 hours project each, 2020
 
@@ -70,24 +70,24 @@ Screenshots :<br/>
 
 - - - -
 ## Moteur Physique
-`Work in progress`
+`Work in progress` `C++` `OpenGL`
 
 - - - -
 ## Combat des animaux
-`Personnal Project`
+`Personnal Project` `C` `SDL2`
 
 - - - -
 ## Majhong Organizer
-`Work in progress`
+`Work in progress` `C++` `QML`
 
 - - - -
 ## Snake
-`Personnal Project`
+`Personnal Project` `Java`
 
 - - - -
 ## GameJam PCPC
-`GameJam Projects`
+`GameJam Projects` `Python`
 
 - - - -
 ## Stickman Canon
-`GameJam Projects`
+`GameJam Projects` `C` `SDL2`
