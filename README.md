@@ -17,7 +17,7 @@ C++    | [Majhong Organizer](#Majhong-Organizer) \| [Moteur Physique](#Moteur-Ph
 
 - - - -
 ## Ghost of Damocles
-`GameJam Project` `Unity`
+`GameJam Project` `Unity` `2021`
 
 Game made using Unity for the University of Quebec at Chicoutimi's game jam : WonderJam 2021 (48h)
 
@@ -47,7 +47,7 @@ Screenshots :<br/>
 
 - - - -
 ## Jump It Catch It
-`Personnal Project` `Java`
+`Personnal Project` `Java` `2020`
 
 Coded a 1V1 online game with a friend using Java. 60 hours project each, 2020
 
@@ -70,7 +70,7 @@ Screenshots :<br/>
 
 - - - -
 ## Physics Engine
-`Work in progress` `C++` `OpenGL`
+`Work in progress` `C++` `OpenGL` `2021`
 
 This project aims to simulate basic physics principles. Project as part of a UQAC course. 2021
 
@@ -87,7 +87,7 @@ Screenshots :<br/>
 
 - - - -
 ## Combat des animaux
-`Personnal Project` `C` `SDL2`
+`Personnal Project` `C` `SDL2` `2019`
 
 Redoing a street fighter game in C, 60 hours project, 2019<br/>
 This project uses SDL2 (more precisely SANDAL2, a SDL2 overlay).<br/>
@@ -106,16 +106,16 @@ Screenshots :<br/>
 
 - - - -
 ## Majhong Organizer
-`Work in progress` `C++` `QML`
+`Work in progress` `C++` `QML` `2021`
 
 - - - -
 ## Snake
-`Personnal Project` `Java`
+`Personnal Project` `Java` `2020`
 
 - - - -
 ## GameJam PCPC
-`GameJam Projects` `Python`
+`GameJam Projects` `Python` `2019`
 
 - - - -
 ## Stickman Canon
-`GameJam Projects` `C` `SDL2`
+`GameJam Projects` `C` `SDL2` `2019`
