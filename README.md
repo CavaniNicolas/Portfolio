@@ -19,13 +19,17 @@ C++    | [Majhong Organizer](#Majhong-Organizer) \| [Moteur Physique](#Moteur-Ph
 ## Ghost of Damocles
 `GameJam Project`
 
-Game made using Unity for the University of Quebec at Chicoutimi's game jam : WonderJam 2021
+Game made using Unity for the University of Quebec at Chicoutimi's game jam : WonderJam 2021 (48h)
 
 You embody a young traveler greedy for gold and wealth but who is bound to a damned ghost.<br/>
 The only way to free yourself from this curse is to explore a castle full of horrible monsters in order to find how to break up the link between him and the ghost of damocles.
 
 The theme imposed by the gamejam was: "The Connection"<br/>
 The styles imposed by the gamejam were : Platformer - Horror - Management
+
+My part in the project :<br/>
+Code Enemies, Platforms and Camera Movements<br/>
+Draw some assets / animations
 
 Code :<br/>
 [Source Code Here](https://github.com/CavaniNicolas/WonderJam2021)<br/>
