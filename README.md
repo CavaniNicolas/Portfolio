@@ -140,6 +140,17 @@ Screenshots :<br/>
 ## GameJam PCPC
 `GameJam Projects` `Python` `2019`
 
+Visual Novel made using Renpy (python software to write visual novels) for a gamejam.<br/>
+The goal for the character is to prove that the Earth is not a sphere, and depending on the proofs collected, it will determine the shape of the Earth the character believes in for it before going to a trial to try and sell it to the judge.
+
+Code :<br/>
+[Source Code Here](https://github.com/CavaniNicolas/GameJam_PCPC)<br/>
+
+Screenshots :<br/>
+![NAFA](screenshots/PCPC/nafa.PNG)<br/>
+![Uni](screenshots/PCPC/uni.PNG)<br/>
+![Forest](screenshots/PCPC/forest.PNG)<br/>
+
 [Back To Top](#Portfolio)
 - - - -
 
@@ -147,7 +158,8 @@ Screenshots :<br/>
 `GameJam Projects` `C` `SDL2` `2019`
 
 My first ever GameJam, C SDL2 (more precisely SANDAL2, a SDL2 overlay).<br/>
-A brick breaker game with colored stickman
+A brick breaker game with colored stickman.
+GameJam theme was stickman
 
 Video :<br/>
 [Youtube Video Presentation (2m)](https://www.youtube.com/watch?v=mrCva9fO55w&t=2s)<br/>
