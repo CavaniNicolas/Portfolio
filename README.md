@@ -1,6 +1,9 @@
 # Portfolio
 My personnal developer portfolio
 
+### About Me
+
+### Glossary
 \      | Games
 :----: | :---:
 Unity  | [Ghost of Damocles](#Ghost-of-Damocles)
@@ -13,7 +16,6 @@ Python | [GameJam PCPC](#GameJam-PCPC)
 C++    | [Majhong Organizer](#Majhong-Organizer) \| [Moteur Physique](#Moteur-Physique)
 
 - - - -
-
 ## Ghost of Damocles
 `GameJam Project`
 
@@ -39,23 +41,30 @@ Screenshots :<br/>
 ![Shop](screenshots/GhostOfDamocles/shop.png)<br/>
 ![Game](screenshots/GhostOfDamocles/game.png)
 
+- - - -
 ## Jump It Catch It
-Personnal Project
+`Personnal Project`
 
+- - - -
 ## Moteur Physique
-Work in progress
+`Work in progress`
 
+- - - -
 ## Combat des animaux
-Personnal Project
+`Personnal Project`
 
+- - - -
 ## Majhong Organizer
-Work in progress
+`Work in progress`
 
+- - - -
 ## Snake
-Personnal Project
+`Personnal Project`
 
+- - - -
 ## GameJam PCPC
-GameJam Projects
+`GameJam Projects`
 
+- - - -
 ## Stickman Canon
-GameJam Projects
+`GameJam Projects`
