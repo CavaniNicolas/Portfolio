@@ -69,8 +69,21 @@ Screenshots :<br/>
 ![Online Menu](screenshots/JumpItCatchIt/onlineMenu.png)
 
 - - - -
-## Moteur Physique
+## Physics Engine
 `Work in progress` `C++` `OpenGL`
+
+This project aims to simulate basic physics principles. Project as part of a UQAC course.
+
+My part in the project :<br/>
+Mostly OpenGL rendering part, project architecture and a little bit of the engine
+
+Code :<br/>
+[Source Code Here](https://github.com/CavaniNicolas/MathsPhysiqueJV)<br/>
+
+Screenshots :<br/>
+![Car](screenshots/PhysicsEngine/car.PNG)<br/>
+![Bouncing Blobs](screenshots/PhysicsEngine/blobBouncing.gif)<br/>
+![Car Rotation](screenshots/PhysicsEngine/CarSpinning.gif)
 
 - - - -
 ## Combat des animaux
