@@ -3,6 +3,8 @@ My personnal developer portfolio
 
 ### About Me
 
+I am a french student born in 1999, studying Computer Science at ISIMA (Clermont-Ferrand France) and video games development at UQAC (Chicoutimi Quebec Canada).
+
 ### Glossary
 
 \      | Non Games
