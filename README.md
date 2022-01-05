@@ -32,7 +32,7 @@ Java   | [Jump It Catch It](#Jump-It-Catch-It) \| [Snake](#snake)
 Python | [GameJam PCPC](#GameJam-PCPC)
 
 - - - -
-## Ghost of Damocles
+## Voidscape
 `UQAC Project` `Unity` `2021`
 
 Game made using Unity for a course at University of Quebec at Chicoutimi.
