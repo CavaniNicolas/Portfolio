@@ -106,7 +106,7 @@ Screenshots :<br/>
 - - - -
 
 ## Physics Engine
-`Work in progress` `C++` `OpenGL` `2021`
+`C++` `OpenGL` `2021`
 
 This project aims to simulate basic physics principles. Project as part of a UQAC course. 2021
 
