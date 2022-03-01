@@ -8,6 +8,7 @@ I am a french student born in 1999, studying Computer Science at ISIMA (Clermont
 ### Glossary
 
 By order of importance :
+* [Ubisoft Game Lab Competition](#Ubisoft-Game-Lab-Competition)
 * [Synchrocantations](#Synchrocantations)
 * [Voidscape](#Voidscape)
 * [Ghost of Damocles](#Ghost-of-Damocles)
@@ -27,10 +28,29 @@ C++    | [Mahjong Organizer](#Mahjong-Organizer) \| [Physics Engine](#Physics-En
 
 \      | Games
 :----: | :---:
-Unity  | [Synchrocantations](#Synchrocantations) \| [Voidscape](#Voidscape) \| [Ghost of Damocles](#Ghost-of-Damocles)
+Unity  | [Ubisoft Game Lab Competition](#Ubisoft-Game-Lab-Competition) \| [Synchrocantations](#Synchrocantations) \| [Voidscape](#Voidscape) \| [Ghost of Damocles](#Ghost-of-Damocles)
 C SDL2 | [Combat des animaux](#Combat-des-animaux) \| [Stickman Canon](#Stickman-Canon) \| [FloodIt And MasterMind](#FloodIt-And-MasterMind)
 Java   | [Jump It Catch It](#Jump-It-Catch-It) \| [Snake](#snake)
 Python | [GameJam PCPC](#GameJam-PCPC)
+
+- - - -
+## Ubisoft Game Lab Competition
+`Work in progress` `UQAC Project` `Ubisoft` `Unity` `2022`
+
+Game made using Unity for the 2022 Ubisoft Game Lab Competition competiting in a team from University of Quebec at Chicoutimi.
+
+A 2v2 online game in which you prepare egg and flour to throw at the opponents and get the highest score just like newcomers welcome weekends.
+You can pass to your teammate to charge a more powerful shot. During games, the weather comes in to change the outcome.
+
+The theme imposed by the Competition was: "Student Experience"<br/>
+Mandate :
+- at least one online element
+- at least one element of artificial intelligence that changes at each game session
+- offer players the possibility to customize at least one element of their game experience
+- present two element of concept art, in-game or not
+
+[Back To Top](#Portfolio)
+- - - -
 
 ## Synchrocantations
 `GameJam Project` `Unity` `2022`
