@@ -8,6 +8,7 @@ I am a french student born in 1999, studying Computer Science at ISIMA (Clermont
 ### Glossary
 
 By order of importance :
+* [Synchrocantations](#Synchrocantations)
 * [Voidscape](#Voidscape)
 * [Ghost of Damocles](#Ghost-of-Damocles)
 * [Jump It Catch It](#Jump-It-Catch-It)
@@ -26,12 +27,33 @@ C++    | [Mahjong Organizer](#Mahjong-Organizer) \| [Physics Engine](#Physics-En
 
 \      | Games
 :----: | :---:
-Unity  | [Voidscape](#Voidscape) \| [Ghost of Damocles](#Ghost-of-Damocles)
+Unity  | [Synchrocantations](#Synchrocantations) \| [Voidscape](#Voidscape) \| [Ghost of Damocles](#Ghost-of-Damocles)
 C SDL2 | [Combat des animaux](#Combat-des-animaux) \| [Stickman Canon](#Stickman-Canon) \| [FloodIt And MasterMind](#FloodIt-And-MasterMind)
 Java   | [Jump It Catch It](#Jump-It-Catch-It) \| [Snake](#snake)
 Python | [GameJam PCPC](#GameJam-PCPC)
 
+## Synchrocantations
+`GameJam Project` `Unity` `2022`
+
+Game made using Unity for the University of Quebec at Chicoutimi's game jam : Winter WonderJam 2022 (48h)
+
+The theme imposed by the gamejam was: "Dilemma"<br/>
+The styles imposed by the gamejam were : Rythme - Co-op - Survival
+
+My part in the project :<br/>
+Code projectiles<br/>
+Create VFX
+
+Code :<br/>
+[Itch.io Page](https://aymeric4444.itch.io/syncrocantation)
+
+Screenshots :<br/>
+![Menu](screenshots/Synchrocantations/title.png)<br/>
+![Game](screenshots/Synchrocantations/game.png)
+
+[Back To Top](#Portfolio)
 - - - -
+
 ## Voidscape
 `UQAC Project` `Unity` `2021`
 
